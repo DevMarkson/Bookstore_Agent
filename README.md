@@ -14,6 +14,29 @@ This bookstore agent is designed to provide friendly and helpful interactions wi
 
 The agent is built using conversational journeys that guide customers through the book purchasing process, ensuring they find what they're looking for while maintaining a welcoming bookstore atmosphere.
 
+## Live Demo
+
+Here are some real interactions with the bookstore agent in action:
+
+### Customer Purchasing Americanah
+
+![Americanah Purchase Demo](images/americanah-purchase-demo.png)
+
+_Customer asks about purchasing Americanah by Chimamanda Ngozi Adichie. The agent confirms availability and processes the order._
+
+### Getting Recommendations for Americanah
+
+![Americanah Recommendation Demo](images/americanah-recommendation-demo.png)
+
+_Customer asks for recommendations about Americanah. The agent provides detailed information about the book and suggests similar titles._
+
+These screenshots show the agent's ability to:
+
+- Handle book purchase requests naturally
+- Provide detailed book information and recommendations
+- Maintain a conversational and helpful tone
+- Connect customers with store contact information when needed
+
 ## Features
 
 ### 📚 Book Purchase Journey
@@ -34,8 +57,7 @@ The agent is built using conversational journeys that guide customers through th
 ### 🏪 Store Information
 
 - **Store Hours**: Monday to Saturday, 9 AM to 8 PM
-- **Location**: 123 Main Street, Springfield
-- **Contact**: +1-222-333-4444
+- **Available Location and Contact**
 - **Staff Assistance**: Direct customers to call for human support
 
 ### 📖 Book Inventory
